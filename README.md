@@ -13,6 +13,7 @@
 * [React JS / Redux Tutorial - by thenewboston](https://youtu.be/DiLVAXlVYR0?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
 * [Redux Crash Course With React - Traversy Media](https://youtu.be/93p3LxR9xfM)
 * [ReactJS / Redux Tutorial - Academind](https://youtu.be/qrsle5quS7A)
+* [Learn Redux - Wes Bos](https://youtu.be/hmwBow1PUuo)
 
 ### Single Video
 #### React
