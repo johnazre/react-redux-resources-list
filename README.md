@@ -11,6 +11,8 @@
 #### Redux
 * [Redux Tutorials - by Learncode.Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 * [React JS / Redux Tutorial - by thenewboston](https://youtu.be/DiLVAXlVYR0?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+* [Redux Crash Course With React - Traversy Media](https://youtu.be/93p3LxR9xfM)
+* [ReactJS / Redux Tutorial - Academind](https://youtu.be/qrsle5quS7A)
 
 ### Single Video
 #### React
