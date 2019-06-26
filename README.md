@@ -20,6 +20,10 @@
 #### React
 * [React JS Crash Course](https://youtu.be/A71aqufiNtQ)
 * [[2017] React Tutorial for Beginners - Codepen.io](https://youtu.be/ZnRFerIP8aA)
+* [FreeCodeCamp full React Tutorial](https://youtu.be/DLX62G4lc44)
+* [Academind React course preview](https://youtu.be/pgAvVxowaYU)
+* [Dev Ed Basic React Course](https://youtu.be/dGcsHMXbSOA)
+* [Dev Ed Build a recipe app in React](https://youtu.be/U9T6YkEDkMo)
 
 ## Reading
 #### React
