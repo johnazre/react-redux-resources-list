@@ -2,6 +2,10 @@
 
 ## Videos
 ### Playlists
+
+#### Both React and Redux
+* [React/Redux/Router from Dev Ed](https://github.com/johnazre/react-redux-resources-list.git)
+
 #### React
 * [REACT JS TUTORIAL - by Learncode.Academy](https://youtu.be/MhkGQAoc7bc?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * [React JS Tutorials for Beginners - by thenewboston](https://youtu.be/-AbaV3nrw6E?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
